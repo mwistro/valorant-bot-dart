@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Valorant Stats Bot Banner" />
+  <img src="project-banner.png" alt="Valorant Stats Bot Banner" />
 </p>
 # 🧠 Valorant Stats Bot (in Dart)
 
@@ -55,7 +55,15 @@ Made with ❤️, occasional bugs, and a lot of learning along the way.
 
 ## 📷 Screenshots (optional)
 
-*You can add some screenshots here to show how the bot looks on Discord.*
+
+### 🔍 /perfil
+![Perfil Command](screenshots/perfil.png)
+
+### 📊 /stats
+![Stats Command](screenshots/stats.png)
+
+### 🕹️ /historico
+![Histórico Command](screenshots/historico.png)
 
 ---
 
