@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Valorant Stats Bot Banner" />
+</p>
 # 🧠 Valorant Stats Bot (in Dart)
 
 This is my first **big personal project built with Dart**: a Discord bot that integrates with the [HenrikDev API](https://docs.henrikdev.xyz/) to fetch statistics and match history for **Valorant** players.  
