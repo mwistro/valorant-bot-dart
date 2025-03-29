@@ -6,11 +6,11 @@ import 'package:dotenv/dotenv.dart';
 import 'package:valorant_bot/rank_data.dart';
 
 final env = DotEnv()..load();
-final apiKey = {'Authorization': 'YOUR-HDEV-APIKEY-HERE'};
-final String botToken = 'YOUR-BOT-TOKEN-HERE';
+final apiKey = {'Authorization': env['YOUR-HDEV-APIKEY-HERE']!};
+final String botToken = env['YOUR-BOT-TOKEN-HERE']!;
 final commands = CommandsPlugin(
   prefix: (m) => '/',
-  guild: Snowflake.parse('YOUR-SERVER-ID-HERE'),
+  guild: Snowflake.parse(env['YOUR-SERVER-ID-HERE']!),
 );
 
 void main() async {
