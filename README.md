@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="project-banner.png" alt="Valorant Stats Bot Banner" />
+  <img src="banner.png" alt="Valorant Stats Bot Banner" />
 </p>
 
 # 🧠 Valorant Stats Bot (in Dart)
