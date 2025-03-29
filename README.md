@@ -53,7 +53,7 @@ Made with ❤️, occasional bugs, and a lot of learning along the way.
 
 ---
 
-## 📷 Screenshots (optional)
+## 📷 Screenshots
 
 
 ### 🔍 /perfil
